@@ -1,12 +1,8 @@
-## Agile Manifesto
+## Agile Manifesto - AITMWC!
 
-
-1. Individuals should be able to finish the work assigned to them
-
-2. Teammates should be able/feel comfortable to ask questions to each other
-
-3. Work should be able to benefit the group as a whole
-
-4. Teammates should be able to communicate over the weekend
-
-5. Individuals are responsible for their own work
+Asking questions to each other, 
+Individuals are not responsible for others,
+Teamates work to make this project satisfacotry,
+Make sure to keep on charging the computer's battery,
+Work on making our project a masterpiece,
+Cease to make this project a catastrophe!
